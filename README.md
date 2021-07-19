@@ -9,7 +9,7 @@
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Hrishikesh's Discord" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-
+</a>
 
 <br>
 <br>
