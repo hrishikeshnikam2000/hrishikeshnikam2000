@@ -1,15 +1,28 @@
 ### Hi there, I am Hrishikesh👋
 <br>
+
+<a href="https://www.linkedin.com/in/hrishikesh-nikam-95b90418b/">
+  <img align="left" alt="Hrishikesh Nikam | LinkedIn" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" />
+</a>
+<a href="https://twitter.com/HrishikeshNika9">
+  <img align="left" alt="Hrishikesh Nikam | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Hrishikesh's Discord" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+
+
 <br>
+<br>
+
 
 <!-- **hrishikeshnikam2000/hrishikeshnikam2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, Python, Flutter and Java
+- 🔭 I’m currently working on React, Python and Flutter
 - 🌱 I’m currently learning Typescript,Svelte
 - 👯 I’m looking for people to collaborate in Hackathons
-- 🤔 I’m looking for help with MLH FELLOWSHIP
+- 🤔 I’m looking for help with MLH FELLOWSHIP, GSOC
 - 💬 Ask me about FULL STACK WEB DEV, Competetive Coding
 - 📫 How to reach me: [Email](mailto:hrishinikam2000@gmail.com) 
 
