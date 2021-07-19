@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Typescript,Svelte
 - 👯 I’m looking for people to collaborate in Hackathons
 - 🤔 I’m looking for help with MLH FELLOWSHIP, GSOC
-- 💬 Ask me about FULL STACK WEB DEV, Competetive Coding
+- 💬 Ask me about Full Stack Web/APP Dev, Competetive Coding
 - 📫 How to reach me: [Email](mailto:hrishinikam2000@gmail.com) 
 
 <br />
