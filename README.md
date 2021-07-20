@@ -16,6 +16,7 @@
 
 
 <!-- **hrishikeshnikam2000/hrishikeshnikam2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<br>
 
 - 🔭 I’m currently working on React, Python and Flutter
 - 🌱 I’m currently learning Typescript,Svelte
@@ -35,7 +36,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
-##### My Suggestion
+
 
 
 
