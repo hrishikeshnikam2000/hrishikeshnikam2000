@@ -1,18 +1,15 @@
-### Hi there, I am Hrishikesh👋
+<h1 align = "center">  Hi there, I am Hrishikesh <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/wave.gif" width="30px"> </h1>
 <br>
 
-<a href="https://www.linkedin.com/in/hrishikesh-nikam-95b90418b/">
-  <img align="left" alt="Hrishikesh Nikam | LinkedIn" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" />
-</a>
-<a href="https://twitter.com/HrishikeshNika9">
-  <img align="left" alt="Hrishikesh Nikam | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="Hrishikesh's Discord" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+<h3 align="center">Connect with me 🤝</h3>
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/hrishikesh-nikam-95b90418b/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:hrishinikam2000" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/hrishikesshhhh" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/HrishikeshNika9" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<p/>
+</div>
+</body>
 
-
-<br>
 <br>
 
 
@@ -37,17 +34,19 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hrishikeshnikam2000&show_icons=true&theme=radical" alt="2" />
 </p>
-
+<br>
 <!-- Contribution Streak  -->
 <h2 align="center">My contribution Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/avinashbest/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshnikam2000&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
- </p>  
+ </p>  </br>
 
-<br><p align="center"><b>Visitors Count</b></p>  
+<br>
+<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
+</br>
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
 
