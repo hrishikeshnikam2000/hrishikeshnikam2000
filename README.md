@@ -7,9 +7,10 @@
 <a href="https://twitter.com/HrishikeshNika9">
   <img align="left" alt="Hrishikesh Nikam | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.com/channels/@me">
   <img align="left" alt="Hrishikesh's Discord" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+
 
 <br>
 <br>
@@ -18,9 +19,10 @@
 <!-- **hrishikeshnikam2000/hrishikeshnikam2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br>
 
+
 - 🔭 I’m currently working on React, Python and Flutter
 - 🌱 I’m currently learning Typescript,Svelte
-- 👯 I’m looking for people to collaborate in Hackathons
+- 👯 I’m looking for people to collaborate with for participating in Hackathons
 - 🤔 I’m looking for help with MLH FELLOWSHIP, GSOC
 - 💬 Ask me about Full Stack Web/APP Dev, Competetive Coding
 - 📫 How to reach me: [Email](mailto:hrishinikam2000@gmail.com) 
@@ -29,8 +31,20 @@
 
 ### Languages and Tools:
 
-[![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikeshnikam2000)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+<h2 align="center">My Github Statistics 🔥</h2>   
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hrishikeshnikam2000&show_icons=true&theme=radical" alt="2" />
+</p>
 
+<!-- Contribution Streak  -->
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
+  <a href="https://github.com/avinashbest/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshnikam2000&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>  
 
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
