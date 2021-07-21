@@ -26,8 +26,6 @@
 
 <br />
 
-### Languages and Tools:
-
 <!-- GitHub Stats -->
 <h2 align="center">My Github Statistics 🔥</h2>   
   
@@ -44,16 +42,13 @@
  </p>  </br>
 
 <br>
+
 <p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
 </br>
+
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
-
-
-
-
-
 ```diff
-- Procastination
+- Procastinating
 + Coding
 ```
