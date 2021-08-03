@@ -25,6 +25,10 @@
 - 📫 How to reach me: [Email](mailto:hrishinikam2000@gmail.com) 
 
 <br />
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshnikam2000&show_icons=true&locale=en&layout=compact" alt="pandademic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishikeshnikam2000&show_icons=true&locale=en" alt="pandademic" /></p> -->
 
 <!-- GitHub Stats -->
 <h2 align="center">My Github Statistics 🔥</h2>   
@@ -40,6 +44,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshnikam2000&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  </br>
+
+<br>
+
+<h2 align = "center"> most used Languages ✨</h2>
+<p align = "center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshnikam2000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used Languages" />
+</p>
+
 
 <br>
 
