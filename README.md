@@ -47,10 +47,10 @@
 
 <br>
 
-<h2 align = "center"> most used Languages ✨</h2>
+<!-- <h2 align = "center"> most used Languages ✨</h2>
 <p align = "center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshnikam2000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used Languages" />
-</p>
+</p> -->
 
 
 <br>
