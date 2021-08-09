@@ -23,7 +23,10 @@
 - 🤔 I’m looking for help with MLH FELLOWSHIP, GSOC
 - 💬 Ask me about Full Stack Web/APP Dev, Competetive Coding
 - 📫 How to reach me: [Email](mailto:hrishinikam2000@gmail.com) 
+<br>
 
+📝 Some of my Blogs:
+-  [How JavaScript Frameworks are slowing down the web, and how ASTRO can solve that problem!](https://hrishikeshnikam.substack.com/p/javascript-frameworks-are-slowing?r=b1fxs&utm_campaign=post&utm_medium=web&utm_source=copy)
 <br />
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshnikam2000&show_icons=true&locale=en&layout=compact" alt="pandademic" /></p>
