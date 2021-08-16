@@ -62,6 +62,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
 </br>
 
+![](https://komarev.com/ghpvc/?username=hrishikeshnikam2000&color=blue)
+
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 ```diff
 - Procastinating
