@@ -58,10 +58,10 @@
 
 <br>
 
-<!-- <p align="center"><b>Visitors Count</b></p>  
+<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
 </br>
- -->
+
  
  ![](https://komarev.com/ghpvc/?username=hrishikeshnikam2000&color=blue)
 
