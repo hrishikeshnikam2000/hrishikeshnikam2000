@@ -5,7 +5,7 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/hrishikesh-nikam-95b90418b/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:hrishinikam2000" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/hrishikesshhhh" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/HrishikeshNika9" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<a href="https://www.linkedin.com/in/hrishikesh-nikam-95b90418b/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:hrishinikam2000" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/hrishikesshhhh" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/hrishikesshhhh" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
 <p/>
 </div>
 </body>
